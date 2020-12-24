@@ -7,11 +7,11 @@ Linux部署项目肯定会有大大小小的问题出现，不会与我下面提
 
 ## 目录结构
 .
-|_ tree.py
-|_ getWeather.py
-|_ shutdown.py
-|_ README.md
-|_ Netease.py
+|_ tree.py<br/>
+|_ getWeather.py<br/>
+|_ shutdown.py<br/>
+|_ README.md<br/>
+|_ Netease.py<br/>
 |_ VolControl.py
 
 ## 材料准备
