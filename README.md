@@ -1,6 +1,8 @@
 # NeteaseCloud-Clock
 这是一个可以播放「网易云每日推荐歌曲」的闹钟，还可以给女朋友播报天气🌞☁️☔️
 
+<img src="https://picbed.tangspoon.cn/uPic/WechatIMG1204.jpeg" alt="WechatIMG1204" style="zoom:50%;" />
+
 ----
 
 Linux部署项目肯定会有大大小小的问题出现，不会与我下面提供的步骤完全一致。遇到问题多网络搜索，大部分问题都会有解决方案。搜索结果没有的，就耐下心来多看原始文档，多尝试，多尝试，多尝试！
