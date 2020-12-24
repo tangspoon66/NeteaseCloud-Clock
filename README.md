@@ -8,10 +8,10 @@ Linux部署项目肯定会有大大小小的问题出现，不会与我下面提
 ## 目录结构
 .
 ├── Netease.py<br/>
-├── README.md
-├── TextToVoice.py
-├── VolControl.py
-├── getWeather.py
+├── README.md<br/>
+├── TextToVoice.py<br/>
+├── VolControl.py<br/>
+├── getWeather.py<br/>
 └── shutdown.py
 
 ## 材料准备
