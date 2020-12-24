@@ -7,7 +7,7 @@ Linux部署项目肯定会有大大小小的问题出现，不会与我下面提
 
 ## 目录结构
 
-<img src="https://picbed.tangspoon.cn/uPic/image-20201223184351927.png" alt="image-20201223184351927" style="zoom:50%;" />
+<img src="https://picbed.tangspoon.cn/uPic/image-20201223184351927.png" alt="image-20201223184351927" style="zoom:30%;" />
 
 ## 材料准备
 
