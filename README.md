@@ -6,8 +6,13 @@
 Linux部署项目肯定会有大大小小的问题出现，不会与我下面提供的步骤完全一致。遇到问题多网络搜索，大部分问题都会有解决方案。搜索结果没有的，就耐下心来多看原始文档，多尝试，多尝试，多尝试！
 
 ## 目录结构
-
-<img src="https://picbed.tangspoon.cn/uPic/image-20201223184351927.png" alt="image-20201223184351927" style="zoom:50%;" />
+.
+|_ tree.py<br/>
+|_ getWeather.py<br/>
+|_ shutdown.py<br/>
+|_ README.md<br/>
+|_ Netease.py<br/>
+|_ VolControl.py
 
 ## 材料准备
 
