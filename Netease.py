@@ -2,9 +2,10 @@
 import requests
 import os
 
-url = 'http://13.75.73.213:3000'
-phone = '13535051864'
-pwd = '1151122086Tqg'
+# NeteaseCloudMusicApi地址。如果是vps，把localhost换成vps的ip
+url = 'http://localhost:3000'
+phone = 'xxxxxx'
+pwd = 'xxxxxxx'
 song_id = []
 songs_url = []
 
