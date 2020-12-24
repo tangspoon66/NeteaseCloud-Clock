@@ -7,7 +7,7 @@ Linux部署项目肯定会有大大小小的问题出现，不会与我下面提
 
 ## 目录结构
 .
-├── Netease.py
+├── Netease.py<br/>
 ├── README.md
 ├── TextToVoice.py
 ├── VolControl.py
