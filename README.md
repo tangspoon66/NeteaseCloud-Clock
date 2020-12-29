@@ -103,12 +103,11 @@ crontab -e
 
 ## 七、TODO
 
+- [ ] 修改乱序播放的bug
 - [ ] 优雅地「关闭」闹钟
 - [ ] 优雅地「设置」闹钟
 
 ## 八、感谢
 
 网易云音乐 NodeJS 版 API：https://binaryify.github.io/NeteaseCloudMusicApi/#/
-
-![image-20201229220034081](https://picbed.tangspoon.cn/uPic/image-20201229220034081.png)
 
