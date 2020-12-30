@@ -45,8 +45,14 @@ def getSongs_url():
     }
     song_url_object = s.post(getSongs_url, data=data)
     song_url_dict = song_url_object.json()
+
+    # 根据song_id重新对song_url排序
+    # 修复乱序播放的bug
     for i in range(0, 32):
-        songs_url.append(song_url_dict['data'][i]['url'])
+        for j in range(0, 32):
+            if song_id[i] == song_url_dict['data'][j]['id']:
+                songs_url.append(song_url_dict['data'][j]['url'])
+    # print('新的songs_url是：', new_songs_url)
 
     return songs_url
 
