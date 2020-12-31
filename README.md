@@ -100,11 +100,12 @@ crontab -e
 1. [智能闹钟（一）｜macOS 入门使用树莓派 3B+](https://blog.tangspoon.cn/2020/12/19/%E6%99%BA%E8%83%BD%E9%97%B9%E9%92%9F%EF%BC%88%E4%B8%80%EF%BC%89%EF%BD%9CmacOS%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8%E6%A0%91%E8%8E%93%E6%B4%BE3B/#more)
 2. [智能闹钟（二）｜使用「和风天气、百度语音合成」API进行天气的播报](http://localhost:4000/2020/12/21/%E6%99%BA%E8%83%BD%E9%97%B9%E9%92%9F%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BD%9C%E4%BD%BF%E7%94%A8%E3%80%8C%E5%92%8C%E9%A3%8E%E5%A4%A9%E6%B0%94%E3%80%81%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E3%80%8DAPI%E8%BF%9B%E8%A1%8C%E5%A4%A9%E6%B0%94%E7%9A%84%E6%92%AD%E6%8A%A5/#more)
 3. [智能闹钟（三）| 使用「网易云音乐 NodeJS 版 API 接口」播放每日推荐歌曲](https://blog.tangspoon.cn/2020/12/22/%E6%99%BA%E8%83%BD%E9%97%B9%E9%92%9F%EF%BC%88%E4%B8%89%EF%BC%89%7C%20%E4%BD%BF%E7%94%A8%E3%80%8C%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90NodeJS%E7%89%88API%E6%8E%A5%E5%8F%A3%E3%80%8D%E8%8E%B7%E5%8F%96%E6%AF%8F%E6%97%A5%E6%8E%A8%E8%8D%90%E6%AD%8C%E6%9B%B2/#more)
+4. [智能闹钟（五）｜如何优雅地关闭闹钟？](https://blog.tangspoon.cn/2020/12/31/%E6%99%BA%E8%83%BD%E9%97%B9%E9%92%9F%EF%BC%88%E4%BA%94%EF%BC%89%EF%BD%9C%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E5%85%B3%E9%97%AD%E9%97%B9%E9%92%9F%EF%BC%9F/#more)
 
 ## 七、TODO
 
 - [x] ~~修改乱序播放的bug~~
-- [ ] 优雅地「关闭」闹钟
+- [x] ~~优雅地「关闭」闹钟~~
 - [ ] 优雅地「设置」闹钟
 
 ## 八、感谢
