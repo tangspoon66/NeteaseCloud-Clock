@@ -32,10 +32,10 @@ Linux部署项目肯定会有大大小小的问题出现，不会与我下面提
 
 可以选择直接搭建在树莓派、VPS上，确保可以稳定长时间运行。搭建方法请看[官方文档](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%ae%89%e8%a3%85)。
 
-### 3. mplayer
+### 3. mpg123
 
 ```
-apt-get install mplayer
+apt-get install mpg123
 ```
 
 ### 4. baidu-api
