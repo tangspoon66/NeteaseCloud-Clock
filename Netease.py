@@ -65,7 +65,7 @@ def playmusic():
     try:
         # 先播放第一首
         print('第一首歌')
-        os.system('mplayer "%s" > /dev/null 2>&1' % songs_url[0])
+        os.system('mpg123 "%s" > /dev/null 2>&1' % songs_url[0])
         # 播放天气
         for i in range(0, 2):
             print('播放天气')
@@ -73,7 +73,7 @@ def playmusic():
         # 开始随机播放2～32首
         for i in range(1, 32):
             print('播放第' + str(i) + '首')
-            os.system('mplayer "%s" > /dev/null 2>&1' % songs_url[i])
+            os.system('mpg123 "%s" > /dev/null 2>&1' % songs_url[i])
     except Exception as e:
         print('Exception', e)
 
