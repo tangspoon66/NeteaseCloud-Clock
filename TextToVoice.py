@@ -41,4 +41,4 @@ else:
 if not isinstance(result, dict):
     with open('/home/clock/weather.mp3', 'wb') as f:
         f.write(result)
-os.system('mplayer "%s" > /dev/null 2>&1' % '/home/clock/weather.mp3')
+os.system('mpg123 "%s" > /dev/null 2>&1' % '/home/clock/weather.mp3')
